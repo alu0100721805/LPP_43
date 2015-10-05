@@ -1,1 +1,5 @@
 Trabajo en equipo con git
+La compilación es el proceso de traducir un programa en código fuente (lenguaje alto nivel fácil comprensión) a programa en código objeto (que usa el lenguaje binario,bajo nivel dificil compresión) y el programa que se encarga de realizar esta opción se llama compilador. en cambio, la interpretación es el proceso por el cuál se traduce y ejecuta línea por línea secuencialmente un programa y no nesita generar un fichero intermedio para su ejecución, el programa que se encarga de realizar esta operación es el interpretador.
+
+Respuesta 59:
+ Esta línea indica que el programa para ejecutarse utilizará la shell del sistema
